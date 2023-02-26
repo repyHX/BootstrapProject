@@ -1,0 +1,8 @@
+#navbarNavDropdown {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#navicon {
+    padding-bottom: 12px;
+}
