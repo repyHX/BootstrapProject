@@ -7,32 +7,17 @@
     padding-bottom: 12px;
 }
 
-body {
-    line-height: 1.5rem;
-    font-family: Poppins;
-    font-style: normal;
-    font-weight: normal;
-    text-decoration: none;
-    font-size: 16px;
-    color: #87909e;
-    background-color: #fff;
-}
+/* Container holding the image and the text */
+#containertop {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
 
-element.style {
-}
-p.small, .small, small {
-    font-size: .8125rem;
-}
-.small, small {
-    font-size: 80%;
-    font-weight: 400;
-}
-*, ::after, ::before {
-    box-sizing: border-box;
-}
-
-div {
-    display: block;
-}
-
-
+  /* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
