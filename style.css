@@ -61,3 +61,22 @@
   .pbox{
     color:gray
   }
+
+
+
+#vid {
+  position: relative;
+  z-index: 2;
+  bottom: 500px;
+
+}
+
+#lowerbg {
+  position: relative;
+  z-index: 1;
+  
+}
+
+#vidtitle {
+  padding-top: 100px;
+}
