@@ -46,3 +46,18 @@
     text-align: center;
     color: gray;
   }
+
+  .img1{
+    vertical-align: middle;
+    border-style: none;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .hbox{
+    margin-left: auto;
+  }
+
+  .pbox{
+    color:gray
+  }
