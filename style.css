@@ -21,3 +21,19 @@
     left: 50%;
     transform: translate(-50%, -50%);
   }
+
+  #think{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 1.75rem;
+    line-height: 2.3625000000000003rem;
+    text-align: center;
+  }
+
+  #techhead{
+    text-align: center;
+    font-style: italic;
+    color: gray;
+  }
