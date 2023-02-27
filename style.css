@@ -37,3 +37,12 @@
     font-style: italic;
     color: gray;
   }
+
+  .hc{
+    text-align: center;
+  }
+
+  .pc{
+    text-align: center;
+    color: gray;
+  }
