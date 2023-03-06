@@ -94,3 +94,23 @@
 .p2{
   color: blue;
 }
+
+.section{
+  background-color: blue;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+.bg-primary {
+  background-color: #0c63ff !important;
+}
+.sr-padding-half {
+  padding-top: 3.125rem !important;
+  padding-bottom: 3.125rem !important;
+}
+
+.d-inline-block {
+  display: inline-block !important;
+}
