@@ -46,7 +46,10 @@
 
   .pc{
     text-align: center;
-    color: gray;
+    color: gray;  
+    margin-top: 0;
+    margin-bottom: 1.25rem;
+
   }
 
   .img1{
